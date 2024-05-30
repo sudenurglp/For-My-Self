@@ -1,0 +1,35 @@
+name: sude
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0-282.3.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_auth: ^4.19.5
+  firebase_core: ^2.31.0
+  cloud_firestore: ^4.17.3
+  fluttertoast: ^8.2.5
+  provider: ^6.1.2
+  url_launcher: ^6.2.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/programmer.png
+    - lib/assets/fms.png
+    - lib/assets/images/google.png
+  fonts:
+    - family: TimesNewRoman
+      fonts:
+        - asset: lib/assets/times_new_roman.ttf

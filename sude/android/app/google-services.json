@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130452570874",
+    "project_id": "quizbie-8cf3b",
+    "storage_bucket": "quizbie-8cf3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130452570874:android:c272aa23dd1eb2b04f7f43",
+        "android_client_info": {
+          "package_name": "com.example.uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLf3g1vtAvbbgWTKMZR4hV3y1etqc1UOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
